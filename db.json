@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "username": "velibtw",
+      "email": "albenizveli@gmail.com",
+      "password": "932f3c1b56257ce8539ac269d7aab42550dacf8818d075f0bdf1990562aae3ef",
+      "id": 1,
+      "likes": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "username": "anexilea",
+      "email": "yaseminalbeniz@hotmail.com",
+      "password": "932f3c1b56257ce8539ac269d7aab42550dacf8818d075f0bdf1990562aae3ef",
+      "id": 2
+    },
+    {
+      "username": "cdelemen",
+      "email": "cdelemen@siksok.com",
+      "password": "932f3c1b56257ce8539ac269d7aab42550dacf8818d075f0bdf1990562aae3ef",
+      "id": 3
+    }
+  ],
+  "newworkoutdata": [
+    {
+      "categoryId": 1,
+      "workouts": [
+        {
+          "name": "benchpress",
+          "weight": 120
+        },
+        {
+          "name": "inc dumbbell press",
+          "weight": 60
+        },
+        {
+          "name": "military press",
+          "weight": 80
+        },
+        {
+          "name": "lateral raise ",
+          "weight": 30
+        },
+        {
+          "name": "triceps pushdown",
+          "weight": 80
+        }
+      ],
+      "userId": 3,
+      "created_at": "2023-06-24T11:56:01.360Z",
+      "id": 1
+    },
+    {
+      "categoryId": 2,
+      "workouts": [
+        {
+          "name": "lat pulldown",
+          "weight": 60
+        },
+        {
+          "name": "bentover barbell row",
+          "weight": 100
+        },
+        {
+          "name": "deadlift",
+          "weight": 180
+        },
+        {
+          "name": "cable row",
+          "weight": 100
+        },
+        {
+          "name": "barbell curl",
+          "weight": 50
+        },
+        {
+          "name": "db hammer curl",
+          "weight": 30
+        }
+      ],
+      "userId": 1,
+      "created_at": "2023-06-24T12:39:58.362Z",
+      "id": 2
+    },
+    {
+      "categoryId": 3,
+      "workouts": [
+        {
+          "name": "hack squat",
+          "weight": 60
+        },
+        {
+          "name": "leg press machine ",
+          "weight": 50
+        },
+        {
+          "name": "leg extension machine",
+          "weight": 40
+        },
+        {
+          "name": "bulgarian deadlift",
+          "weight": 40
+        },
+        {
+          "name": "glute machine",
+          "weight": 50
+        }
+      ],
+      "userId": 2,
+      "created_at": "2023-06-24T12:43:30.418Z",
+      "id": 3
+    },
+    {
+      "categoryId": 1,
+      "workouts": [
+        {
+          "name": "db press",
+          "weight": 120
+        },
+        {
+          "name": "seated db fly",
+          "weight": 40
+        },
+        {
+          "name": "shoulder press",
+          "weight": 70
+        },
+        {
+          "name": "cable lateral raise",
+          "weight": 15
+        },
+        {
+          "name": "skull crusher",
+          "weight": 30
+        }
+      ],
+      "userId": 1,
+      "created_at": "2023-06-25T19:09:06.522Z",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "name": "Push",
+      "id": 1
+    },
+    {
+      "name": "Pull",
+      "id": 2
+    },
+    {
+      "name": "Legs",
+      "id": 3
+    }
+  ]
+}
