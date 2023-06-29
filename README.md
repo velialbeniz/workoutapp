@@ -1,6 +1,9 @@
 # 6-Bookmarklist-app
 
 This template should help get you started developing with Vue 3 in Vite.
+Using Vuex-Vue Router for the first time.
+CryptJS for crypted users passwords.
+AXIOS for http requests.
 
 ## Recommended IDE Setup
 
